@@ -1,0 +1,49 @@
+body
+{
+	background-color:#010101;
+}
+.container
+{
+	background-color:#010101;
+	width:970px;
+	font-family: rubik;
+	margin:0px auto;
+	color: white;
+}
+.container #hi
+{
+	margin-top:50px;
+	margin-left:350px;
+	width: 300px;
+	background-color:#010101;
+	border: 5px solid white;
+	border-radius: 5px;
+}
+.container p
+{
+	text-align: center;
+}
+.container ul
+{
+	list-style: none;
+}
+.container img
+{
+	margin-left: 290px;
+}
+.container .position_bar #search_box
+{
+	margin-left:300px; 
+}
+.container .names_list
+{
+	margin-top: 25px;
+	margin-left: -10px;
+}
+.container .name_list .bye_2
+{
+	margin-left: 47px;
+}
+
+
+
